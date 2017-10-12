@@ -5,7 +5,8 @@ html {
 body {
   list-style-type: none;
   line-height: 1.5;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
+  font-weight: normal;
 }
 
 img {
@@ -15,7 +16,7 @@ img {
 
 h1 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   font-weight: bold;
 }
@@ -23,7 +24,7 @@ h1 {
 a {
   text-decoration: none;
   font-size: 1.125rem;
-  font-family: 'PT Sans', serif;
+  font-family: "PT Sans", serif;
   color: #8f2440;
   font-weight: bold;
 }

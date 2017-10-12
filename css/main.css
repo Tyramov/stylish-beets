@@ -38,3 +38,8 @@ blockquote {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+.bold-note {
+  font-weight: bold;
+  font-size: 1.125rem;
+}

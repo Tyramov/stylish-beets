@@ -1,9 +1,11 @@
 html {
-background-color: #c9b5ab;
+  background-color: #c9b5ab;
 }
 
 body {
   list-style-type: none;
+  line-height: 1.5;
+  font-family: 'PT Serif', serif;
 }
 
 img {
@@ -21,7 +23,7 @@ h1 {
 a {
   text-decoration: none;
   font-size: 1.125rem;
-  font-family: 'PT Serif', serif;
+  font-family: 'PT Sans', serif;
   color: #8f2440;
   font-weight: bold;
 }
@@ -31,6 +33,7 @@ a:hover {
   text-decoration: none;
 }
 
-.fig {
-  font-weight: bold;
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
 }

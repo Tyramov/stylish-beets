@@ -1,0 +1,36 @@
+html {
+background-color: #c9b5ab;
+}
+
+body {
+  list-style-type: none;
+}
+
+img {
+  width: 100%;
+
+}
+
+h1 {
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.125rem;
+  font-family: 'PT Serif', serif;
+  color: #8f2440;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #222;
+  text-decoration: none;
+}
+
+.fig {
+  font-weight: bold;
+}
